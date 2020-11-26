@@ -1,0 +1,11 @@
+cloud:
+  aws:
+    credentials:
+      accessKey: AKIAJTLKD4ETKHNC6TPA
+      secretKey: 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
+    s3:
+      bucket: lawliet0521
+    region:
+      static: ap-northeast-2
+    stack:
+      auto: false
